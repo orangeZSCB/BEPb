@@ -6,7 +6,7 @@
     <a href="https://github.com/orangeZSCB/orangeZSCB/graphs/contributors"><img src="https://img.shields.io/github/contributors/orangeZSCB/orangeZSCB?color=blue"></a>
     <a href="https://github.com/orangeZSCB/orangeZSCB/stargazers"><img src="https://img.shields.io/github/stars/orangeZSCB/orangeZSCB.svg?logo=github"></a>
     <a href="https://github.com/orangeZSCB/orangeZSCB/network/members"><img src="https://img.shields.io/github/forks/orangeZSCB/orangeZSCB.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=orangeZSCB.orangeZSCB" alt="visitors"/>   
 </p>
 
 
