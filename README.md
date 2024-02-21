@@ -15,7 +15,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Orange+(%E5%BC%A0%E4%BB%95%E6%88%90);+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=OrangeFont&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Orange.;Welcome+to+my+Github+profile!;I+am+an+OIer+and+devloper.)](https://git.io/typing-svg)
 
 
 
