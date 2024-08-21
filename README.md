@@ -17,7 +17,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=OrangeFont&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Orange.;Welcome+to+my+Github+profile!;I+am+an+OIer+and+devloper.)](https://git.io/typing-svg)
 
-↑ Using Orangefont Typing, [download](//orangestd.cn/orangefont) ↑
+↑ Using OrangeFont, [download](//orangestd.cn/orangefont) ↑
 
 
 **📫 How to Reach me:**
